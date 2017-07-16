@@ -3,3 +3,5 @@ include/
 lib/
 local/
 share/
+dist/
+random_color.egg-info/
